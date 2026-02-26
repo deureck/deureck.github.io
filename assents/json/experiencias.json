@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Analista de Logística",
+        "empresa": " PACAEMBU AUTOPEÇAS LTDA",
+        "descricao": "Atuava na logística de uma empresa de autopeças de alto volume para veículos pesados, minhas responsabilidades incluíam organizar o estoque, conferir notas fiscais e gerenciar garantias com fornecedores. Implementei melhorias significativas: padronizei a conferência de NF, o que reduziu as discrepâncias em 9,5%, e liderei uma reorganização do estoque que aumentou a acuracidade do inventário em 12,8%. Além disso, meu contato direto com fornecedores agilizou a resolução de garantias, diminuindo o tempo médio do processo em 2,5 dias",
+        "data_inicio": "04/2024",
+        "data_fim": "04/2025",
+        "palavras_chave": [
+            "Office",
+            "Analise de Dados",
+            "organizacao"
+        ]
+    },
+    {
+        "title": "Estagiario de TI",
+        "empresa": "VOESTALPINE MEINCOL S.A.",
+        "descricao": "Em um ambiente corporativo com sistemas robustos como SAP e Salesforce, atuei no atendimento de chamados com foco em análise de dados, automação e suporte técnico. Realizei análises em Excel para identificar padrões de falhas e desenvolvi fluxos no Power Automate para reduzir tarefas manuais, além de prestar suporte funcional e técnico (como ajustes de DNS). Minhas ações resultaram em um aumento de 15,2% na eficiência operacional via automação e reduziram o tempo médio de resolução de chamados em 1,8 dias, garantindo maior estabilidade dos sistemas.",
+        "data_inicio": "04/2025",
+        "data_fim": "10/2025",
+        "palavras_chave": [
+            "Office",
+            "SAP",
+            "SalesForce",
+            "Automações"
+        ]
+    }
+]

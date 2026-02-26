@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Encurtador de URL",
+        "image": "assents/imagens/projetos/url.png",
+        "link": "https://github.com/deureck/urlencurtador"
+    },
+    {
+        "title": "API flask Yolo",
+        "image": "assents/imagens/projetos/flask.png",
+        "link": "https://github.com/deureck/API_flask_Yolo"
+    }
+]
